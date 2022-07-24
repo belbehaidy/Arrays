@@ -10,7 +10,7 @@
 
 int main(void)
 {
-	//int arr[MAX_SIZE];
+	int arr[MAX_SIZE];
 	
 	printf("this is a test program");
 	
